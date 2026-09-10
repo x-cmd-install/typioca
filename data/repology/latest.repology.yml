@@ -1,0 +1,166 @@
+- repo: nix_stable_26_05
+  srcname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: Cozy typing speed tester in terminal
+  maintainers:
+    - git@ieda.me
+  licenses:
+    - MIT
+- repo: aur
+  srcname: typioca
+  binname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: 3.1.0-1
+  status: newest
+  summary: Tapioca (/ˌtæpiˈoʊkə/) is a starch extracted from the storage roots of the cassava plant. Pearl tapioca is a common ingredient in Asian desserts...and sweet drinks such as bubble tea.
+  maintainers:
+    - sysroot@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: typioca-bin
+  binname: typioca-bin
+  visiblename: typioca-bin
+  version: 3.1.0
+  origversion: 3.1.0-1
+  status: newest
+  summary: Minimal, terminal based typing speed tester
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: typioca-git
+  binname: typioca-git
+  visiblename: typioca-git
+  version: 3.1.0
+  origversion: 3.1.0-1
+  status: rolling
+  summary: Minimal, terminal based typing speed tester
+  maintainers:
+    - energi@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: Cozy typing speed tester in terminal
+- repo: homebrew
+  srcname: typioca
+  visiblename: typioca
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Cozy typing speed tester in terminal
+- repo: nix_stable_24_05
+  srcname: typioca
+  visiblename: typioca
+  version: 2.11.2
+  origversion: null
+  status: outdated
+  summary: Cozy typing speed tester in terminal
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: Cozy typing speed tester in terminal
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: Cozy typing speed tester in terminal
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: Cozy typing speed tester in terminal
+  maintainers:
+    - git@ieda.me
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: Cozy typing speed tester in terminal
+  maintainers:
+    - git@ieda.me
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: typioca
+  binnames:
+    - typioca
+    - typioca-debuginfo
+    - typioca-debugsource
+    - typioca-bash-completion
+    - typioca-zsh-completion
+  visiblename: typioca
+  version: 3.1.0
+  origversion: 3.1.0-1.9
+  status: newest
+  summary: Minimal terminal based typing speed tester
+  licenses:
+    - MIT
+  categories:
+    - Productivity/Text/Utilities
+- repo: scoop
+  subrepo: main
+  binname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: tur
+  srcname: typioca
+  binname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: Cozy typing speed tester
+  maintainers:
+    - termux-user-repository@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: typioca
+  binname: typioca
+  visiblename: typioca
+  version: 3.1.0
+  origversion: 3.1.0_1
+  status: newest
+  summary: Minimal, terminal based typing speed tester
+  maintainers:
+    - duncaen@voidlinux.org
+  licenses:
+    - MIT
