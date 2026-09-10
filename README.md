@@ -22,7 +22,16 @@ x install typioca
 - **Latest**: `3.1.0` (2024-10-02)
 - **Last commit**: 2025-03-06
 - **Assets in release**: 5
-- **Published**: 2024-10-02T07:38:24Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [typioca-linux-amd64](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-linux-amd64) | 9.0 MiB | `native/linux/x64` |
+| [typioca-mac-amd64](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-mac-amd64) | 9.2 MiB | `other` |
+| [typioca-mac-arm64](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-mac-arm64) | 8.8 MiB | `other` |
+| [typioca-win-amd64.exe](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-win-amd64.exe) | 9.4 MiB | `other` |
+| [typioca-win-arm64.exe](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-win-arm64.exe) | 8.9 MiB | `other` |
 
 ## Popularity
 
@@ -57,8 +66,8 @@ Total: **2,770** lines of code across **52** files in the top 5 languages.
 Install metadata for typioca lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `typioca` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/typioca.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/typioca.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:43:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:05:09Z._

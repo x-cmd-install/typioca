@@ -4,7 +4,7 @@
 
 Cozy typing speed tester in terminal
 
-![typioca](https://repo.x-cmd.io/typioca.svg)
+![typioca](https://repo.x-cmd.io/typioca.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,16 @@ x install typioca
 - **最新版本**: `3.1.0` (2024-10-02)
 - **最近提交**: 2025-03-06
 - **Release 含资产**: 5 个
-- **发布时间**: 2024-10-02T07:38:24Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [typioca-linux-amd64](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-linux-amd64) | 9.0 MiB | `native/linux/x64` |
+| [typioca-mac-amd64](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-mac-amd64) | 9.2 MiB | `other` |
+| [typioca-mac-arm64](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-mac-arm64) | 8.8 MiB | `other` |
+| [typioca-win-amd64.exe](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-win-amd64.exe) | 9.4 MiB | `other` |
+| [typioca-win-arm64.exe](https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-win-arm64.exe) | 8.9 MiB | `other` |
 
 ## 流行度
 
@@ -61,4 +70,4 @@ typioca 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:43:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:05:09Z._
