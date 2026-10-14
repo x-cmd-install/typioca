@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9392388,
       "digest": null,
-      "download_count": 2606,
+      "download_count": 2607,
       "created_at": "2024-10-02T07:38:24Z",
       "updated_at": "2024-10-02T07:38:25Z",
       "browser_download_url": "https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9862656,
       "digest": null,
-      "download_count": 3120,
+      "download_count": 3125,
       "created_at": "2024-10-02T07:38:24Z",
       "updated_at": "2024-10-02T07:38:25Z",
       "browser_download_url": "https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-win-amd64.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9293824,
       "digest": null,
-      "download_count": 1571,
+      "download_count": 1576,
       "created_at": "2024-10-02T07:38:24Z",
       "updated_at": "2024-10-02T07:38:25Z",
       "browser_download_url": "https://github.com/bloznelis/typioca/releases/download/3.1.0/typioca-win-arm64.exe"
